@@ -1,0 +1,113 @@
+{ "Room_rate":
+[
+{
+  "id": 1,
+  "room_rate": "Dahlia",
+  "room_number": 1,
+  "Facilities": "2 bed",
+  "price_perNight": 275000
+}, {
+  "id": 2,
+  "room_rate": "Mawar Superior",
+  "room_number": 2,
+  "Facilities": "2 bed",
+  "price_perNight": 550000
+}, {
+  "id": 3,
+  "room_rate": "Mawar Bawah",
+  "room_number": 3,
+  "Facilities": "2 bed",
+  "price_perNight": 375000
+}, {
+  "id": 4,
+  "room_rate": "Mawar VIP",
+  "room_number": 4,
+  "Facilities": "2 bed",
+  "price_perNight": 850000
+}, {
+  "id": 5,
+  "room_rate": "Anyelir Atas",
+  "room_number": 5,
+  "Facilities": "2 bed",
+  "price_perNight": 550000
+}, {
+  "id": 6,
+  "room_rate": "Anyelir Bawah",
+  "room_number": 6,
+  "Facilities": "2 bed",
+  "price_perNight": 450000
+}, {
+  "id": 7,
+  "room_rate": "Bougenville",
+  "room_number": 7,
+  "Facilities": "2 bed",
+  "price_perNight": 500000
+}, {
+  "id": 8,
+  "room_rate": "Cempaka",
+  "room_number": 8,
+  "Facilities": "2 bed",
+  "price_perNight": 650000
+}, {
+  "id": 9,
+  "room_rate": "Rafles 2kamar",
+  "room_number": 9,
+  "Facilities": "2 bed",
+  "price_perNight": 900000
+}, {
+  "id": 10,
+  "room_rate": "Tulip 3kamar",
+  "room_number": 10,
+  "Facilities": "2 bed",
+  "price_perNight": 1250000
+}, {
+  "id": 11,
+  "room_rate": "Cemara Atas",
+  "room_number": 11,
+  "Facilities": "2 bed",
+  "price_perNight": 1350000
+}, {
+  "id": 12,
+  "room_rate": "Cemara Barak 2lt",
+  "room_number": 12,
+  "Facilities": "2 bed",
+  "price_perNight": 4000000
+}, {
+  "id": 13,
+  "room_rate": "Joglo Plus",
+  "room_number": 13,
+  "Facilities": "2 bed",
+  "price_perNight": 3500000
+}, {
+  "id": 14,
+  "room_rate": "Anggrek",
+  "room_number": 14,
+  "Facilities": "2 bed",
+  "price_perNight": 3000000
+}, {
+  "id": 15,
+  "room_rate": "Joglo Meeting Room",
+  "room_number": 15,
+  "Facilities": "2 bed",
+  "price_perNight": 6000000
+}, {
+  "id": 16,
+  "room_rate": "Pinus-R.Serbaguna",
+  "room_number": 16,
+  "Facilities": "2 bed",
+  "price_perNight": 400000
+}, {
+  "id": 17,
+  "room_rate": "Graha Cunang",
+  "room_number": 17,
+  "Facilities": "2 bed",
+  "price_perNight": 275000
+}, {
+  "id": 18,
+  "room_rate": "Camping Ground",
+  "room_number": 18,
+  "Facilities": "2 bed",
+  "price_perNight": 550000
+}
+]
+}
